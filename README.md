@@ -1,3 +1,3 @@
 - 👋 Hi, 
 - I am currently mainly working on data science projects
-- Find some of my thoughts on : https://nonneutralzero.blogspot.com/
+- Find some of my thoughts on : https://nonneutralzero.com/
