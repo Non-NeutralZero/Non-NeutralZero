@@ -1,3 +1,2 @@
 - 👋 Hi, 
 - I am currently mainly working on data science projects
-- [Linktree](https://linktr.ee/nonneutralzero?utm_source=linktree_profile_share&ltsid=41cc7db2-4703-4efa-80c2-6ee2cbd874be)
